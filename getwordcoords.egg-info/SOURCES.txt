@@ -1,0 +1,8 @@
+setup.py
+getwordcoords.egg-info/PKG-INFO
+getwordcoords.egg-info/SOURCES.txt
+getwordcoords.egg-info/dependency_links.txt
+getwordcoords.egg-info/requires.txt
+getwordcoords.egg-info/top_level.txt
+wordcoords/__init__.py
+wordcoords/get_wc.py
