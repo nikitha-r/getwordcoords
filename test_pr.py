@@ -1,1 +1,1 @@
-# Microsoft team and Discord trigger.-2
+# Microsoft team and Discord trigger.3
